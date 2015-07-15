@@ -19,6 +19,10 @@ Teleporting a group to an Essentials Warp (requires Essentials):
 Teleporting a group to you:
 > /gtp {group} me
 
+# Permissions
+Allows the use of /gtp
+> grouptp.tp
+
 # For more, visit [the Bukkit.fr request page](http://www.bukkit.fr/index.php/topic/17761-comment-t%C3%A9l%C3%A9porter-tout-un-grade-groupmanager/)
 
 # License
