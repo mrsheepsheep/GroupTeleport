@@ -1,0 +1,13 @@
+name: GroupTeleport
+author: MrSheepSheep
+version: 1.0
+main: fr.mrsheepsheep.grouptp.GroupTP
+depend: [Essentials, Vault]
+commands:
+  gtp:
+    usage: /gtp <sous commande>
+    description: TP de Groupe
+permissions:
+  grouptp.tp:
+    default: OP
+    description: Permet de téléporter un groupe.
